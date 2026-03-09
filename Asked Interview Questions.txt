@@ -1,0 +1,149 @@
+PWC Interview Questions
+
+Introduction
+what is ur project
+what is ur role in ur project
+where u publish the report
+power bi app where u deployed
+fact and dimensions table
+star and snowflake schema
+we have 2 columns sales and region and calculate the avg of sales per region
+bookmarks 
+data size of excel data
+which KPIs are using in ur project and what are they showing
+what kind of ETL pipeline is there in ur project
+
+
+Infosys 1st Round
+
+how to add one column in sql
+how to delete data in sql
+how to extract data in dax
+how to implement scheduled refresh
+which kind chart u have
+calculate last 30 days sales
+give me current year last month sales
+give me last year previous month sales
+diff count vs countd
+tell me any 5 dax functions
+table vs matrix
+all vs allexcept vs all selected
+roles in power bi service
+which kind of subscription ur using
+you have 2 reports need send on priority both on same date what should you do. If both report not possible how would u talk with manager/client.
+edit interaction scenario
+bookmark scenario
+calculated columns vs measures
+how to implement top 10 product last 10 products
+calculate total sales removing all filters except silcers and filters
+how to split the text in dax
+find the duplicate in sql and how to delete it
+calculate the last month sales from current date
+
+
+Plum Interview question
+
+Types of joins and write a output of all joins using 2 tables
+write a query to find cumulative sum 
+we have movie table contain 2 columns seat and gender find 3 consecutive males in a row
+what is windows functions
+Diff between BA and DA
+Zomato running a one offer between 12-2 PM having 60% off Hows the business could impact or not what should we improve?
+l
+
+
+Infosys Interview questions
+Introduction
+what is ur role in ur project
+How to implement scheduled refresh and how to send mail via scheduled refresh
+How to send snapshot of report via scheduled refresh
+What is Slowly changing dimension
+diff bet data warehouse vs data mart
+give me syntax of dateadd() dax function
+List of timeintelligence function
+What is dataflow
+what is field parameter and how to implement this
+What is use of data modelling
+What is Page level security
+What are the roles in power bi service
+What is frequency to check the updates of power bi desktop
+
+
+
+ScatterPie Interview Question
+Introduction
+What is your previous project
+Diff Between active and inactive relationship
+RLS and types
+Implement the Bookmark in PBI
+What is field parameter implement it in PBI
+Write a dax query last 3 month sales for "VTT" product
+Write a dax for year to date (TotalYTD)
+What is Gateways
+Diff between Import and directquery
+can we create a Calculated columns in directquery
+What is circular dependency
+What is increment refresh how to implement it
+Which timeintelligence function u know
+what is datesinperiod
+Make a calculated column having condition if product is VTT and country is France then concatenate the Country and Product (France VTT)
+
+
+
+Burns and Mcdonnelds:
+Introduction
+Diff between Append vs Merge
+Measures are used in slicer
+How to combined two tables and function in dax
+how to create bridge table
+How to implement incremental refreshed
+what is Managed parameter
+what is filed parameter
+what is nameof function in dax
+calculate vs calculate table
+we have 100 rows and filter the 10 given rows in power query? also in dynamic way
+what RLS and how to implement it
+how to switch between test to prod in power query
+what is edit interaction
+what bookmark
+what is drillthrough
+when u have 2 table but table structure is same u able to do the append in power query?
+what is query folding
+what is duplicate and reference
+what is fill up and fill down
+what is null vs blank
+fill up and fill down can works with null and blank?
+len(blank or null) what will be the answer
+diff between choose column & remove column( same for rows)
+what is unpivot and pivot
+how to create table using power query
+what is dimention and fact table how to identify it
+In data model which table which table means dimention table filter fact table or vise versa
+If we have 2 table t1 have diff values and t2 have also diff value can we create M to M with them
+How to merge 2 tables in DAX
+How to implement dynamic title
+what is reverse rows in power query
+WHat is cardinality and types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

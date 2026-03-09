@@ -1,0 +1,27 @@
+SUM--, COUNT--, AVERAGE--, SUMIFS--, COUNTIFS--, AVERAGEIFS--,
+INDEX--, MATCH--, INDEX & MATCH--, IF--, IFERROR--,
+AND--, OR--, NOT--, Nested Functions--, ARRAY Formulas--, LET, SUMPRODUCT--,
+INDIRECT--, CHOOSE--, OFFSET--, LEFT--, RIGHT--
+
+LOOKUP--
+VLOOKUP--
+HLOOKUP--
+XLOOKUP--
+
+Pivot Tables & Pivot Charts--
+Data Sorting and Filtering--
+Subtotals--
+Data Tables--
+Scenarios (What-If Analysis)--
+Goal Seek and Solver--
+
+Conditional Formatting--
+Basic to Advanced Charting
+Creating Dynamic Dashboards		
+
+Keyboard Shortcuts (You can get it from ChatGPT)
+Data Consolidation Techniques
+Error Checking
+
+Advanced Filter
+Slicers and Timelines in Pivot Tables

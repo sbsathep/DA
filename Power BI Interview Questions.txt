@@ -1,0 +1,29 @@
+1.Explain the main components of Power BI and their functions.
+
+2.How do you import data into Power BI? What data sources have you worked with?
+
+3.Can you explain the difference between DirectQuery and Import Data modes in Power BI?
+
+4.How do you create calculated columns and measures in Power BI? What are the differences between them?
+
+5.Describe the process of creating a relationship between two tables in Power BI.
+
+6.What are the advantages and disadvantages of using Power BI Desktop compared to Power BI Service (PowerBI.com)?
+
+7.Have you used Power Query Editor in Power BI? If so, what are some transformations you have performed using it?
+
+8.How do you handle large datasets in Power BI to ensure optimal performance?
+
+9.What is DAX (Data Analysis Expressions), and why is it important in Power BI?
+
+10.Can you explain Row-level security in Power BI and how you can implement it for different users?
+
+11.Have you used custom visuals in Power BI? How did you integrate them into your reports?
+
+12.How do you create and publish a Power BI report to the Power BI Service?
+
+13.What is the difference between a Power BI report and a Power BI dashboard?
+
+14.How can you schedule data refresh in Power BI? Have you encountered any issues with data refresh before?
+
+15.Have you worked with Power BI's natural language query capabilities? How do you use them effectively?

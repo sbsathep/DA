@@ -1,0 +1,19 @@
+1.Data Transformation: You should be familiar with Power Query, which is used to connect, clean, and transform data from various sources into a suitable format for analysis.
+
+2.Data Modeling: Building data models using Power BI's data modeling features like relationships, calculated columns, and measures to create meaningful insights.
+
+3.Data Visualization: Creating interactive and insightful visualizations using charts, tables, matrices, maps, and other visual elements.
+
+4.Dashboards and Reports: Designing and developing interactive dashboards and reports to present data in a user-friendly manner.
+
+5.DAX (Data Analysis Expressions): Writing DAX formulas to perform complex calculations and create custom measures.
+
+6.Power BI Service: Publishing and sharing reports and dashboards on the Power BI service for collaboration and consumption.
+
+7.Data Refresh and Security: Managing data refresh schedules and setting up security and access controls for shared content.
+
+8.Integration with Other Tools: Integrating Power BI with other Microsoft tools like Excel, SharePoint, and Teams for seamless data sharing and collaboration.
+
+9.Customization and Branding: Customizing reports and dashboards to match the organization's branding and design guidelines.
+
+10.Performance Optimization: Identifying and implementing performance optimization techniques to ensure smooth and fast-loading reports.

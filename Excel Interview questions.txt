@@ -1,0 +1,64 @@
+✅ Basic to Intermediate Excel
+What are the different data types supported in Excel? --
+
+How do you remove duplicates in a dataset? --
+
+What is the difference between relative, absolute, and mixed cell references? --
+
+How do you use VLOOKUP, HLOOKUP, and what are their limitations?--
+
+What is the difference between VLOOKUP, INDEX-MATCH, and XLOOKUP? --
+
+How do you apply data validation to restrict user input? --
+
+Explain conditional formatting and give an example. --
+
+How do you create and manage named ranges? --
+
+✅ Formulas and Functions
+Explain the use of IF, IFS, and IFERROR functions with examples. --
+
+What is the difference between COUNT, COUNTA, COUNTIF, and COUNTIFS? --
+
+How do you use SUMIF and SUMIFS? --
+
+What is the use of the TEXT function? Give an example. --
+
+How do you extract parts of a text string using LEFT, RIGHT, MID, and FIND? --
+
+How would you calculate the number of working days between two dates? --
+
+What are array formulas and how are they used in Excel? --
+
+✅ Data Analysis and Visualization
+How do you use PivotTables and PivotCharts? --
+
+How do you handle large datasets in Excel? --
+
+Explain how you would create a dynamic chart in Excel.
+
+What are slicers and how do they work in PivotTables?
+
+How do you perform a What-If Analysis in Excel?
+
+✅ Advanced Excel
+What is Power Query and how have you used it?
+
+What is Power Pivot and how does it differ from standard PivotTables?
+
+Explain your experience with DAX functions in Excel (if applicable).
+
+How do you automate tasks using Macros or VBA? Any example?
+
+Have you used Excel to connect to external data sources (SQL, CSV, Web)?
+
+✅ Scenario-Based Questions
+A manager gives you messy data and needs a monthly sales summary. How do you approach it?
+
+How do you ensure the accuracy and reliability of your Excel reports?
+
+Have you ever optimized a slow Excel file? What steps did you take? --
+
+How do you handle errors or missing values in Excel?
+
+Give an example where Excel helped you solve a real business problem.

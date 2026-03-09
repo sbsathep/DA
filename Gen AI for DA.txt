@@ -1,0 +1,160 @@
+Gen AI:
+------
+>Generative AI:
+
+What is Gen AI?
+--> Generative AI (Gen AI) refers to a category of artificial intelligence systems that can create new content such as text, images, audio, video, or even code, based on patterns learned from large datasets.
+
+What can you with Gen AI as Data Analyst?
+--> 	- Data querying / writing SQL queries
+	- Uncovering deeper insights
+	- Creating data visualization
+	- Data driven stories
+	- Creating synthetic data for testing & modeling
+	- Automating code & query generation
+
+Limitation of Gen AI?
+--> AI generated response is not always reliable
+	- Outdated
+	- Produce hallucinations and give incorrect statements
+    AI is not replacement of critical thinking
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+>Prompt Engineering:
+
+What is Prompt?
+--> Any input you provide to Gen AI to get desired output.
+	- collect info
+	- derive inference
+	- creative solution
+
+What is Prompt Engineering?
+--> It is the art and science of creating Prompts.
+
+Why Prompt Engineering is important?
+--> 	- Improve AI accuracy
+	- Enhance efficiency
+	- Reduces error & iteration
+	- Customizes the AI responses
+
+Building blocks of Well Engineered Prompts:
+--> There is 4 building blocks:
+	1. Instructions - What you want AI to do
+	2. Context - Background information to guide AI
+	3. Input Data - Specific details or sample data
+	4. Output Indicator - Desired format of the response
+Example: 
+	Generate an SQL query to calculate total monthly sales revenue from the ‘orders’ table, which contains columns (order_id, order_date, 	customer_id, product_id, sales_amount). Filter results to show only the last 12 months and group by month. Return output in a table 	format sorted by month.
+
+	1. Instruction - Generate an SQL query
+	2. Context - Sales data from 'Orders' table
+	3. Input Data - Column names
+	4. Output indicator - Grouped by month, sorted, tabular format
+
+Process involved in Prompt Engineering:
+--> 	1. Define the goals
+	2. Crafting the initial prompt
+	3. Testing the initial prompt
+	4. Analysing the AI response
+	5. Refining the prompt
+	6. Iterate the process
+
+Advanced Prompting Technique:
+-->	1. Zero shot
+	2. Few shot
+	3. Chain of thought
+	4. Interview pattern
+	5. Persona pattern
+
+1. Zero Shot Prompting:
+--> 	- When you give AI task without any example/context.
+	- When to use this technique?
+		- You need a quick and general response.
+		- You want to understand any topic.
+		- Working with well-know queries.
+
+2. Few Shot Prompting:
+--> 	- Provide AI with few examples to guide its response.
+	- Help AI to understand patterns & improve accuracy.
+	- When to use this technique?
+		- When AI misinterprets zero shot prompting.
+		- When you need consistent formatting.
+		- When you working with structure pattern.
+
+3. Chain of Thoughts Prompting:
+--> 	- Focus AI to think step-by-step before arriving at a solution.
+	- Especially for complex task improving AI reasoning ability.
+	- When to use this technique?
+		- Complex task -> simple step-by-step guide
+		- Data transformation.
+		- Problem require multiple step to solve.
+
+4. Interview Pattern Prompting: 
+--> 	- AI asks clarifying questions to fully understand your requirement before responding
+	- When to use this technique?
+		- Dealing with incomplete queries.
+		- AI needs clarity before respond.
+
+5. Persona Pattern:
+--> 	- Assign specific role to AI.
+	- When to use this technique?
+		- When you want AI to act as a subject matter expert.
+		- When you required specialised knowledge.
+		- When writing in specific tone or style.
+
+------------------------------------------------------------------------------------------------------------------------
+>Step-by-Step Data Analysis Framework:
+
+1. Contextualize
+2. Problem Statement
+3. Strategize
+4. Implement
+5. Document
+
+
+1. Contextualize:
+--> - Data schema is the blue print of how data is structure
+    - Field , datatype, values
+    - Prompt with a role(eg. senior data analyst, data analyst copilot)
+    - <data>……………………</data>
+
+2. Problem Statement:
+--> - Leverage AI for guidance
+    - Formulate problem statement & Research questions
+    - Tailor AI suggestions based on your skill level (beginner as a expert)
+
+3. Strategize:
+--> - Develop a strategy to achieve our defined goal efficiently.
+    - Tools selection
+    - Method selection
+    - Complete workflow
+
+4. Implementation:
+--> - Break down implementation in simple steps.
+    - Clear and concise instruction.
+    - Prompt AI step by step to maintain control & accuracy.
+
+5. Document:
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
