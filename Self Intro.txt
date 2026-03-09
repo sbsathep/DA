@@ -1,0 +1,6 @@
+"Good Morning, and thank you for the opportunity to interview today. My name is Shishir Sathe, I am from Dhule, Maharashtra. I have completed my B.Tech degree in Electronics and Telecommunication from SSVPS B S Deore college of Engineering, Dhule. Then I joined Capgemini in Dec 2021 and I have been working here since then as a data analyst.
+
+In Capgemini I have around 3+ years of experience as a Data Analyst. In my previous roles, I've worked extensively with SQL for data extraction, transformation, and manipulation, and I have hands-on experience with Power BI, where I’ve created interactive dashboards and visualizations to help business stakeholders make informed decisions.
+
+In addition to SQL and BI tools, I have worked with relational databases PostgreSQL to manage large datasets, optimize queries, and ensure performance. I also have a basic understanding of Python, which I’ve used for data analysis and automation tasks.
+

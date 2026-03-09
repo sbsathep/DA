@@ -1,0 +1,68 @@
+1.) Explain order of execution of SQL. --
+2.) What is difference between where and having?--
+3.) What is the use of group by?--
+4.) Explain all types of joins in SQL?--
+5.) What are triggers in SQL?--
+6.) What is stored procedure in SQL--
+7.) Explain all types of window functions?
+(Mainly rank, row_num, dense_rank, lead & lag)--
+8.) What is difference between Delete and Truncate?--
+9.) What is difference between DML, DDL and DCL?--
+10.) What are aggregate function and when do we use them? explain with few example.--
+11.) Which is faster between CTE and Subquery?--
+12.) What are constraints and types of Constraints?--
+13.) Types of Keys?--
+14.) Different types of Operators ?--
+15.) Difference between Group By and Where?--
+16.) What are Views?--
+17.) What are different types of constraints?--
+18.) What is difference between varchar and narchar?--
+19.) Similar for char and nchar?--
+20.) What are index and their types?--
+21.) What is an index? Explain its different types.--
+22.) List the different types of relationships in SQL.--
+23.) Differentiate between UNION and UNION ALL.--
+24.) How many types of clauses in SQL?--
+25.) What is the difference between UNION and UNION ALL in SQL?--
+26.) What are the various types of relationships in SQL?--
+27.) Difference between Primary Key and Secondary Key?
+28.) What is the difference between where and having?--
+29.) Find the second highest salary of an employee?--
+30.) Write retention query in SQL?
+31.) Write year-on-year growth in SQL?
+32.) Write a query for cummulative sum in SQL?
+33.) Difference between Function and Store procedure?
+34.) Do we use variable in views?
+35.) What are the limitations of views?
+36.) How do you handle NULL values in joins?--
+37.) Write a query to calculate the percentage of sales for each product.
+38.) How do you retrieve the top N records for each category in a dataset?
+39.) Write a query to join two tables and fetch records that exist in one table but not the other.
+40.)   ? How is it different from a subquery? 
+41.) Write a SQL query to calculate the Customer Lifetime Value (CLV) .
+
+1. Find duplicate records in a table.
+ 2. Retrieve the second highest salary from the Employee table.
+ 3. Find employees without department.
+ 4. Calculate the total revenue per product.
+ 5. Get the top 3 highest-paid employees.
+ 6. Find customers who made purchases but never returned products.
+ 7. Show the count of orders per customer.
+ 8. Retrieve all employees who joined in 2023.
+ 9. Calculate the average order value per customer.
+ 10. Get the latest order placed by each customer.
+ 11. Find products never sold.
+ 12. Identify the most selling product.
+ 13. Get the total revenue and the number of orders per region.
+ 14. Count how many customers placed more than 5 orders.
+ 15. Retrieve customers with orders above the average order value.
+ 16. Find all employees hired on weekends.
+ 17. List employees whose salary is within a range.
+ 18. Get monthly sales revenue and order count.
+ 19. Rank employees by salary within each department.
+ 20. Find customers who placed orders every month in 2023.
+ 21. Find moving average of sales over the last 3 days.
+ 22. Identify the first and last order date for each customer.
+ 23. Show product sales distribution (percent of total revenue).
+ 24. Retrieve customers who made consecutive purchases (2 Days).
+ 25. Find churned customers (no orders in the last 6 months).
